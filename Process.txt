@@ -1,0 +1,7 @@
+Task to Perform:
+===============
+1. Prepare one customer_data.csv file.
+2. Read this file.
+3. Data Cleansing.
+4. Data transformation.
+5. Save the cleaned and transformed data into new csv file named as cleaned_customer_data.csv.

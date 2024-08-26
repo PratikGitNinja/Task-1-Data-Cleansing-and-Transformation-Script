@@ -1,0 +1,11 @@
+,CustomerID,Name,Email,DateOfBirth,RegistrationDate,Country,MonthlySpend,Age
+0,1,John Doe,johndoe@example.com,1985-02-15,2024-01-12,United states,200.0,39
+1,2,Jane Smith,janesmith@example.com,1990-08-20,2024-08-26,United states,300.0,34
+2,3,Alan Brown,alanbrown@example.com,1975-01-15,2024-02-05,Canada,150.0,49
+3,4,Eva White,evawhite@example.com,1987-07-30,2024-02-15,United states,400.0,37
+4,5,Mark Black,markblack@example.com,1982-02-12,2024-02-15,Canada,0.0,42
+5,6,Lisa Green,lisagreen@example.com,1979-10-19,2024-04-10,United kingdom,250.0,45
+6,7,Paul Blue,paulblue@example.com,1983-11-03,2024-01-28,United kingdom,0.0,41
+7,8,Alice Pink,alicepink@example.com,1977-04-22,2024-05-18,Mexico,450.0,47
+8,9,Mary Orange,maryorange@example.com,1999-12-31,2024-02-22,France,300.0,25
+9,10,Chris Gray,chrisgray@example.com,1986-12-11,2024-03-01,United states,0.0,38
